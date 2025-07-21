@@ -1,0 +1,19 @@
+.footer {
+  background: linear-gradient(to right, #007bff, #00c6ff);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin-top: 50px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer a:hover {
+  color: #ffe600;
+}

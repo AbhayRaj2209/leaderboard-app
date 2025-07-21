@@ -1,0 +1,45 @@
+.section {
+  padding: 50px 20px;
+}
+
+.leaderboard-container {
+  margin-top: 10px;
+  padding: 20px;
+}
+
+.leaderboard-glass {
+  margin-top: 30px;
+  padding: 25px;
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  background: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  color: #222;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.leaderboard-glass h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.leaderboard-glass ol {
+  list-style: decimal;
+  padding-left: 20px;
+}
+
+.leaderboard-glass li {
+  padding: 8px 0;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.top-user {
+  font-size: 1.05rem;
+  font-weight: bold;
+  color: #111;
+  background: linear-gradient(90deg, #fefcea 0%, #f1da36 100%);
+  border-radius: 8px;
+  padding: 6px 12px;
+  margin-bottom: 6px;
+}
